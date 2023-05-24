@@ -8,8 +8,7 @@ Création d'un loto :
 Technologies utilisée : HTML, CSS, Javascript 
 
 Pour lancer le projet : 
-  - Ouvrir le fichier index.html dans la page d'un navigateur 
-  - Ou cliquer sur ce lien :  
+  - Ouvrir le fichier index.html dans la page d'un navigateur   
 
 Objectifs à venir : 
   - Pouvoir avoir plusieurs grilles avec les noms des participants 
