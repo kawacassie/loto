@@ -9,6 +9,7 @@ Technologies utilisée : HTML, CSS, Javascript
 
 Pour lancer le projet : 
   - Ouvrir le fichier index.html dans la page d'un navigateur   
+  - Ou cliquer sur ce lien : https://kawacassie.github.io/loto/
 
 Objectifs à venir : 
   - Pouvoir avoir plusieurs grilles avec les noms des participants 
